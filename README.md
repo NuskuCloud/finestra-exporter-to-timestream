@@ -18,8 +18,8 @@ This project is designed to fetch and process data from the Finestra API provide
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/nuskucloud/salford-finestra-ingest.git
-cd salford-finestra-ingest
+git clone https://github.com/nuskucloud/finestra-exporter-to-timestream.git
+cd finestra-exporter-to-timestream
 ```
 
 ### 2. Install Dependencies
